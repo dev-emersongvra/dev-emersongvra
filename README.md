@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-emersongvra
 - 👀 I’m interested in clould development and architecture
-- 🌱 I’m currently learning aws cdk development
+- 🌱 I’m currently building web apps based on aws cdk development
 - 💞️ I’m looking to collaborate on IoT projects
 - 📫 How to reach me: dev.emersongvra@gmail.com
 - 😄 Pronouns: He/Him
